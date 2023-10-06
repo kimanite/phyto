@@ -61,7 +61,7 @@
 
   .immerse{
     min-height: 100vh;
-    background: url('15.jpg') no-repeat;
+    background: url('https://img.freepik.com/free-photo/multi-colored-fish-swim-tropical-coral-reef-generated-by-ai_188544-34706.jpg?t=st=1696581887~exp=1696585487~hmac=4c16ab2eae5a1b6b908f0ef737fbf2a3e453c04ec8762afb17d6ff54ddff5ee5&w=1380') no-repeat;
     background-position: center;
     background-size: cover;
     display: flex;
